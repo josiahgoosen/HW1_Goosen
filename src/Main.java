@@ -10,7 +10,7 @@ public class Main {
      */
     public static void main(String[] args) {
 
-	    System.out.println("My HW1.");
+	    System.out.println("My HW1 .");
 
     }
 }
